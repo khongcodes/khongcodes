@@ -6,7 +6,6 @@ I'm currently working on:
     Analyzing and rebuilding a Squarespace illustration portfolio with Typescript-React 
 - [[x]](https://github.com/khongcodes/ttrpg-cli-tools)
     A tabletop rpg command line utility (effective dice rolling for DnD, PbtA, and FotD, card-drawing WIP)
-- A parody NGE logo in Illustrator (yes, that is what you think it is)
 - Deepening my understandings of React, JavaScript, and Figma
 
 Check out [my website](https://www.khongcodes.com/) or find me on [Twitter](https://www.twitter.com/khongcodes)!
