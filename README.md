@@ -5,7 +5,7 @@ I'm currently working on:
 - [[x]](https://github.com/khongcodes/kh-illus-pofo)
     Analyzing and rebuilding a Squarespace illustration portfolio with Typescript-React 
 - [[x]](https://github.com/khongcodes/ttrpg-cli-tools)
-    A tabletop rpg command line utility (effective dice rolling for DnD, PbtA, and FotD, card-drawing WIP)
+    A tabletop rpg command line utility (effective dice rolling for DnD, PbtA, and FotD, card/tarot-card-drawing)
 - Deepening my understandings of React, JavaScript, and Figma
 
 Check out [my website](https://www.khongcodes.com/) or find me on [Twitter](https://www.twitter.com/khongcodes)!
