@@ -1,12 +1,16 @@
 ### Hey! 👋
 I'm Kevin, a full stack software engineer. Building a house made of React and SASS 🏠
 
-I'm currently working on:
+Currently doing volunteering dev [work](https://www.linkedin.com/company/podsnyc/) with [Pods.nyc](https://www.pods.nyc/).
+
+#### Currently cooking:
+- [[x]](https://github.com/khongcodes/rpg-generators)
+    Building my own ttrpg table roller with TypeScript-React-Redux
 - [[x]](https://github.com/khongcodes/kh-illus-pofo)
-    Analyzing and rebuilding a Squarespace illustration portfolio with Typescript-React 
-- [[x]](https://github.com/khongcodes/ttrpg-cli-tools)
-    A tabletop rpg command line utility (effective dice rolling for DnD, PbtA, and FotD, card/tarot-card-drawing)
-- Deepening my understandings of React, JavaScript, and Figma
+    Finishing features on a TypeScript-React rebuild of a Squarespace illustration portfolio
+- [[x]](https://github.com/khongcodes/julia-tyler-portfolio)
+    Yet another design portfolio (Typescript-React)
+- Deepening my understandings of React, TypeScript, and Firebase
 
 Check out [my website](https://www.khongcodes.com/) or find me on [Twitter](https://www.twitter.com/khongcodes)!
 
