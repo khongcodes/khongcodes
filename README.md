@@ -3,7 +3,7 @@ I'm Kevin, a full stack software engineer. Building a house made of React and SA
 
 My pronouns are he/him or they/them.
 
-When I'm not designing or coding or studying new ways to do both, you might find me
+When I'm not designing or coding or studying new ways to do both, you might find me:
 - 🛹 Practicing my downhill longboard control
 - 🥧 Baking
 - 📚 Reading
