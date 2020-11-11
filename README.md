@@ -10,12 +10,14 @@ When I'm not designing or coding or studying new ways to do both, you might find
 - 🎲 Playing video games or ttrpgs
 
 #### Currently cooking:
-- [[x]](https://github.com/khongcodes/tenderfoot-tactical-aid)
-    Gathering data to build the first fan site for [Tenderfoot Tactics](https://tenderfoottactics.com/)
+- [[x]](https://github.com/khongcodes/electron-typescript-react-nedb-scaffold)
+    Learning to integrate TypeScript-React with Electron and NeDB to build my own weekly planner desktop app
 - [[x]](https://github.com/khongcodes/rpg-generators)
     Designing and building my own ttrpg table roller with TypeScript-React-Redux
 - [[x]](https://github.com/khongcodes/kh-illus-pofo)
     Finishing features on a TypeScript-React rebuild of a Squarespace illustration portfolio
+- [[x]](https://github.com/khongcodes/tenderfoot-tactical-aid)
+    Gathering data to build the first fan site for [Tenderfoot Tactics](https://tenderfoottactics.com/)
 - Deepening my understandings of React and TypeScript
 - Studying for Security+ certification on the side
 
