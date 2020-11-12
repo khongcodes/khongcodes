@@ -19,7 +19,6 @@ When I'm not designing or coding or studying new ways to do both, you might find
 - [[x]](https://github.com/khongcodes/tenderfoot-tactical-aid)
     Gathering data to build the first fan site for [Tenderfoot Tactics](https://tenderfoottactics.com/)
 - Deepening my understandings of React and TypeScript
-- Studying for Security+ certification on the side
 
 Check out [my website](https://www.khongcodes.com/) or find me on [Twitter](https://www.twitter.com/khongcodes)!
 
