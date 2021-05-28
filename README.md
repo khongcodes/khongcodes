@@ -1,5 +1,6 @@
 ### Hey! 👋
 I'm Kevin, a full stack software engineer. Building a house made of React and SASS 🏠
+Currently training in Java Spring development as an engineer at HCL America.
 
 My pronouns are he/him or they/them.
 
@@ -10,17 +11,12 @@ When I'm not designing or coding or studying new ways to do both, you might find
 - 🎲 Playing video games or ttrpgs
 
 #### Currently cooking:
-- [[x]](https://github.com/khongcodes/electron-typescript-react-nedb-scaffold)
-    Learning to integrate TypeScript-React with Electron and NeDB to build my own weekly planner desktop app
-- [[x]](https://github.com/khongcodes/rpg-generators)
-    Designing and building my own ttrpg table roller with TypeScript-React-Redux
-- [[x]](https://github.com/khongcodes/kh-illus-pofo)
-    Finishing features on a TypeScript-React rebuild of a Squarespace illustration portfolio
-- [[x]](https://github.com/khongcodes/tenderfoot-tactical-aid)
-    Gathering data to build the first fan site for [Tenderfoot Tactics](https://tenderfoottactics.com/)
+- Learning Java Spring
+- Designing my next iteration on my portfolio.
 - Deepening my understandings of React and TypeScript
+- Preparing to study Unity
 
-Check out [my website](https://www.khongcodes.com/) or find me on [Twitter](https://www.twitter.com/khongcodes)!
+Check out [my website](https://www.khongcodes.com/)!
 
 <!--
 **khongcodes/khongcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
