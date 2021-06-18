@@ -2,7 +2,7 @@
 I'm Kevin, a full stack software engineer. Building a house made of React and SASS 🏠
 Currently training in Java Spring development as an engineer at HCL America.
 
-My pronouns are he/him or they/them.
+My preferred pronouns are they/them.
 
 When I'm not designing or coding or studying new ways to do both, you might find me:
 - 🛹 Practicing my downhill longboard control
