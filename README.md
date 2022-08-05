@@ -1,6 +1,8 @@
 ### Hey! 👋
 I'm Kevin.
+
 My background is in illustration and design, and front end web development.
+
 Currently working as an Akamai Ion developer at HCL America.
 
 My preferred pronouns are they/them.
