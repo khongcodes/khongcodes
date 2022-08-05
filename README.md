@@ -1,20 +1,17 @@
 ### Hey! 👋
-I'm Kevin, a full stack software engineer. Building a house made of React and SASS 🏠
-Currently training in Java Spring development as an engineer at HCL America.
+I'm Kevin.
+My background is in illustration and design, and front end web development.
+Currently working as an Akamai Ion developer at HCL America.
 
 My preferred pronouns are they/them.
 
 When I'm not designing or coding or studying new ways to do both, you might find me:
-- 🛹 Practicing my downhill longboard control
-- 🥧 Baking
+- 🛹 Longboarding
 - 📚 Reading
 - 🎲 Playing video games or ttrpgs
 
 #### Currently cooking:
-- Learning Java Spring
-- Designing my next iteration on my portfolio.
-- Deepening my understandings of React and TypeScript
-- Preparing to study Unity
+- Learning the ins and outs of Unity and technical art.
 
 Check out [my website](https://www.khongcodes.com/)!
 
