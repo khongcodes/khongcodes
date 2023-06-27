@@ -11,7 +11,7 @@ When I'm not designing or coding or studying new ways to do both, you might find
 - 🎲 Playing video games or ttrpgs
 
 #### Currently cooking:
-- Learning the ins and outs of Unity and technical art.
+- Learning Rust and wgpu
 
 Check out [my website](https://www.khongcodes.com/)!
 
