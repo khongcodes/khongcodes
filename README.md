@@ -1,17 +1,16 @@
 ### Hey! 👋
 I'm Kevin (they/them). 
 
-Currently working as an Akamai Ion developer at HCL America.
+Currently working as an Senior Akamai Ion developer and build project coordinator at HCL America.
 
 My background is in illustration and design, and front end web development.
 
 When I'm not designing or coding or studying new ways to do both, you might find me:
-- 🛹 Longboarding
 - 📚 Reading
 - 🎲 Playing video games or ttrpgs
 
 #### Currently cooking:
-- Learning Rust and wgpu
+- Learning Bevy and video game programming
 
 Check out [my website](https://www.khongcodes.com/)!
 
