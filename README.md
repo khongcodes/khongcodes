@@ -1,7 +1,7 @@
 ### Hey! 👋
 I'm Kevin (they/them). 
 
-My background is in illustration and design, and front end web development.
+My background is in illustration and design, front end web development, and CDN setup and administration.
 
 When I'm not designing or coding or studying new ways to do both, you might find me:
 - 📚 Reading
