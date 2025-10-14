@@ -1,8 +1,6 @@
 ### Hey! 👋
 I'm Kevin (they/them). 
 
-Currently working as an Senior Akamai Ion developer and build project coordinator at HCL America.
-
 My background is in illustration and design, and front end web development.
 
 When I'm not designing or coding or studying new ways to do both, you might find me:
@@ -12,7 +10,7 @@ When I'm not designing or coding or studying new ways to do both, you might find
 #### Currently cooking:
 - Learning Bevy and video game programming
 
-Check out [my website](https://www.khongcodes.com/)!
+<!-- Check out [my website](https://www.khongcodes.com/)! -->
 
 <!--
 **khongcodes/khongcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
